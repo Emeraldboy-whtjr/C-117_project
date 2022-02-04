@@ -1,0 +1,24 @@
+body{
+    background-color: #5a2af7;
+}
+.text{
+    color: black;
+}
+.detail{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#drawnsketch{
+    color: #30f2e2;
+}
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    animation-name: anime;
+    animation-duration: 4s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+    background-color: white;
+
+}
